@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi I'm Arkaneel Roy<br>🔭 I’m currently a student<br>👯 I’m looking to collaborate on Opensource Projects<br>🤝 I’m looking for help Opensource Community<br>🌱 I’m currently learning PHP<br>💬 Ask me about Anything you like<br>Pronouns He/Him<br>⚡ Fun  fact:Python is scary<br>📫 Contact me on royarkaneel1080@gmail.com
+👋 Hi I'm Arkaneel Roy<br>🔭 I’m currently a student<br>👯 I’m looking to collaborate on Opensource Projects<br>🤝 I’m looking for help Opensource Community<br>🌱 I’m currently learning PHP<br>💬 Ask me about Anything you like<br>Pronouns He/Him<br>⚡ Fun  fact Python is scary
 
 
 ## 🌐 Socials:
