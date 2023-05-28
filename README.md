@@ -77,6 +77,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Arkaneel/Arkaneel/output/snake.svg" alt="Snake animation" />
+
 
 ###
